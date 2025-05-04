@@ -1,0 +1,19 @@
+{
+  "name": "lwe8-textile-types",
+  "version": "0.1.0",
+  "description": "",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/hast": "^3.0.4"
+  }
+}
